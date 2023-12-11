@@ -1,0 +1,32 @@
+.singup-section{
+    display: flex;
+    justify-content: center;
+}
+.left_data{
+   display: flex;
+    width: 100%
+    
+}
+.singup input{
+    
+margin-top: 15px;  
+width: 300px;
+height: 40px;
+border-radius: 4px;  
+
+    
+}
+.singup-button button{
+    margin-top: 15px;  
+width: 300px;
+height: 40px;
+border-radius: 4px;
+background: blue;
+border: none;
+color: #fff;
+
+
+}
+.singup-para{
+    margin-top: 15px;
+}

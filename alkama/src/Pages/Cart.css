@@ -1,0 +1,29 @@
+.section-cart{
+    display: flex;
+    width: 500px;
+    height: 500px;
+    
+    
+}
+
+.continue-shoping{
+    display: flex;
+    padding-top:100px ;
+    padding-left: 50px;
+    gap: 10px;
+
+}
+.continue-shoping img{
+    width: 20px;
+}
+.continue-shoping h3{
+    font-size: 20px;
+}
+.continue-shoping hr{
+    
+        border: none;
+        width: 80%;
+        height: 2px;
+        border-radius: 10px;
+        background: #000;
+}
